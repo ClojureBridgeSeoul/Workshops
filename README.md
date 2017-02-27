@@ -1,50 +1,34 @@
-# Workshops
+# 워크샵
 
-This is the repository of ClojureBridge workshops. Please file an issue to
-get started. Board members are watching this repository. If an organizer neeeds
-a help, add a comment to the issue.
+ClojureBridge 워크샵의 repository입니다. 시작하기 위해선 안건을 제출해 주세요. 이사회 구성원들이 이 repository를 보고 있습니다. 만약 주최자가 도움이 필요한 경우 안건에 코멘트를 추가해 주세요.
 
-Every workshop should have a mentor from one of current (or past) board members.
-Even though, you have an experience of organizing ClojureBridge in the past,
-you should contact to the mentor. This is because things are often updated.
+모든 워크샵은 현재(혹은 과거) 이사회 중 한명의 멘토가 있어야 합니다. 심지어 당신이 과거에 ClojureBridge를 조직한 경험이 있다하더라도 반드시 멘토에 연락해야 합니다. 이것은 종종 업데이트 되는 사항들 때문입니다.
 
-When your workshop is ready to annouce at [clojurebirge.org](http://clojurebridge.org), add an announcement
-to your workshop issue. The announcement template is in this repository
-[announcement-template.md](https://github.com/ClojureBridge/Workshops/blob/master/announcement-template.md).
-To fill out the template see: [Workshop Event Listing Guide](#workshop-event-listing-guide).
+당신의 워크샵이 [clojurebridge.org](http://clojurebridge.org)에 알려질 준비가 되면, 당신의 워크샵 안건에 안내를 추가하세요. 안내형식은 [announcement-template.md](https://github.com/ClojureBridge/Workshops/blob/master/announcement-template.md) repository에 있습니다. 형식 작성시 참고하세요: [Workshop Event Listing Guide](#workshop-event-listing-guide).
 
-Based on the information provided in the issue, one of the board
-member will create a website. (What they do is copy&pasting markdown annotated texts
-to Rails admin console. Markdown rendering would be 'best effort,' not perfect,
-unfortunately.)
+안건에 대해 주어진 정보에 기반하여 이사회 구성원 중 한명이 웹사이트를 만들 것입니다.(그들이 하는 것은 주석이 달린 markdown텍스트를 Rails admin consol에 복사해서 붙여넣는 것입니다. Markdown rendering은 '최선의 노력'이 될 것입니다. 불행히도, 완벽하지는 않습니다.)
 
-For a list of past and upcoming workshops, see [Workshops](http://clojurebridge.github.io/community-docs/workshops.html).
+과거와 곧 있올 워크샵에 대한 리스트가 있습니다. [Workshops](http://clojurebridge.github.io/community-docs/workshops.html)을 참고하세요.
 
-## Reading list prior to the annoucement
+##안내 전 읽을 목록
 
 - [Guidance To Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md)
 
-## Workshop Event Listing Guide
+##워크샵 행사 리스트 작성 가이드
 
-Copy and paste the [Announcement Template](announcement-template.md)
-into a GitHub issue with your event title as the title. More explanation
-for each of the template elements is below.
+[Announcement Template](announcement-template.md)를 복사해서 깃허브 안건에 당신의 행사 제목을 제목으로 하여 붙여넣으세요. 형식 요소 각각에 대한 자세한 설명은 아래에 있습니다.
 
 ---
 
 ### Event title
 
-For example, "ClojureBridge Edinburgh" or "ClojureBridge Workshop for
-Women")
+예를 들어, "ClojureBridge Edinburgh" 또는 "ClojureBridge Workshop for Women"
 
 ### Location
 
-**Locale:** For US locations, we'll just use the two-character state
-code.  For all other locations, use a common, memorable name for your
-workshop's location (e.g. City, Country).
+**Locale:** 미국의 경우, 두 글자의 주 코드를 사용합니다. 다른 모든 지역의 경우 공통적으로 워크샵 장소 (예: 도시, 국가)의 기억하기 쉬운 이름을 사용하십시오.
 
-**Venue:** Full address. Should be able to be copied and pasted into
-Google Maps search and result in a pointer to the workshop venue.
+**Venue:** 전체 주소. Google Maps 검색에 복사하여 붙여 넣을 수 있어하고 워크샵 장소에 대한 포인터가 있어야 합니다.
 
 ### 설명 
 
@@ -79,32 +63,24 @@ Google Maps search and result in a pointer to the workshop venue.
 
 ### Additional Info
 
-Further details such as requirement to bring own laptop, schedule and
-refreshments, where to park, other transportation options, after party,
-etc.
+개인 노트북 준비의 필요성, 일정, 다과, 주차 장소, 다른 교통수단, 뒷풀이 등의 세부사항
 
 ### Event Registration
-
-URL of registration form or other joining instructions. We encourage
-organizers to use EventBrite.
+등록폼의 URL 혹은 다른 참가 방법. 우리는 주최자로 하여금 EventBrite를 사용하기를 권장합니다.
 
 ### Organizer details
 
-Email address of organizer. This email should be associated with a
-[Gravatar](https://gravatar.com/) and will be visible on the
-ClojureBridge website. The Gravatar should preferably be a photo clearly
-showing the host's friendly face. (The email address won't show up on the
-website, but used as a kind of id in database. Also, it is used to send
-out messages to past oranizers.)
+주최자의 이메일 주소. 이 이메일은 [Gravatar](https://gravatar.com/)와 연결되어 있어야하며 ClojureBridge 웹 사이트에 표시됩니다. Gravatar은 가급적이면 호스트의 얼굴을 보여주는 사진이어야 합니다. (이메일 주소는 홈페이지에 보여지지는 않지만, 데이터베이스에 일종의 id로 사용이 됩니다. 또, 과거 주최자에게 메세지를 보내는 데 사용됩니다.)
 
-Twitter handle for organizer or event *(optional)*
+주최자 또는 이벤트를 위한 Twitter handle *(선택사항)*
 
-GitHub username of organizer or ClojureBridge chapter *(optional)*
+주최자 또는 ClojureBridge지부의 GitHub username *(선택사항)*
 
 ### Sponsors (optional)
 
-For each sponsor, include:
+각 후원자마다 다음 내용을 포함해야 합니다:
 
-- Name
-- URL *(optional)*
-- preferred logo *(optional, prefer PNG or vector format)*
+- 이름
+- URL *(선택사항)*
+- 선호하는 로고 *(선택사항, PNG 혹은 vector format 선호)*
+
