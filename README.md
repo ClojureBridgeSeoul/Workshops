@@ -46,47 +46,36 @@ workshop's location (e.g. City, Country).
 **Venue:** Full address. Should be able to be copied and pasted into
 Google Maps search and result in a pointer to the workshop venue.
 
-### Description
+### 설명 
 
-A paragraph or two on the event. Include information on who can register
-for the workshop. (e.g. "Men may attend as a woman's guest.") For
-example:
+하나 혹은 두 문단으로 행사를 설명합니다. 누가 워크샵에 신청 가능한지에 대한 정보를 포함합니다.(예: "남성은 여성의 게스트로 참석합니다.")
+예를 들어:
 
-> *If you are focusing on a particular constituency, include text like the
-> following: "This workshop is intended to reach out to women who are new
-> to Clojure. To register, you must identify as a woman."*
+> * 특정 참가자들을 원하신다면, 다음을 명시해야합니다. 
+> "이 워크샵은 Clojure를 처음 접하는 여성에게 다가가기 위한 것이며, 등록하려면 여성임을 확인해야합니다."*
 >
-> In this workshop, we'll {INSERT CONTENT HERE}. We'll meet up Friday
-> night to install all of the software you need, and then spend workshop
-> day learning and writing code.
+> 이 워크샵에선, {진행할 컨텐츠}를 진행합니다.
+> 금요일 저녁에 만나 필요한 소프트웨어를 설치하고
+> 워크샵 진행 때는 코드를 배우고 씁니다.
 >
-> Total programming novices, system administrators, developers in other
-> languages, and folks who attended our previous workshops are all
-> welcome. We'll have 5-7 different classes separated by experience level.
-> Each participant needs to bring his or her own computer.
+> 모든 프로그래밍 초보자들, 시스템 관리자, 다른 언어 개발자들과 이전 워크샵에 참가한 사람들 모두 환영합니다.
+> 5-7개의 분반을 수준에 맞게 나누어 진행합니다.
+> 각 참가자들은 자신의 컴퓨터를 가져와야합니다.
 >
-> When you RSVP you'll be asked a few question about your operating
-> system, level and type of programming experience, and whether you will
-> require childcare. Childcare and private space for nursing or pumping is
-> available -- just let us know.
+> 답장을 주실 때, 사용하시는 운영체제와 프로그래밍 경험 수준과 유형, 그리고 탁아 서비스를 필요로하신지 몇가지 질문을 드릴겁니다. 
+> 탁아 서비스와 수유를 위한 개인 공간이 마련되어있습니다. -- 알려주세요
 >
-> (Sometimes people ask if the Friday night installfest is mandatory, and
-> yes, it is! It's a crucial part of the weekend, even if you’ve already
-> gone through the instructions independently. There are a ton of moving
-> parts when setting up a development environment, and the reason that
-> we’re able to get through the curriculum on Saturday is that every
-> single student has had their dev environment checked and has been
-> awarded a sticker for their successes. There are also enough changing
-> parts that even if you’ve been to a workshop in the past, you should
-> attend the Installfest to get re-verified, because this stuff changes
-> almost constantly.)
+> (가끔 금요일 밤의 소프트웨어 설치가 필수냐고 물으시는데, 필수입니다!
+> 일정 중 필수적인 부분입니다. 미리 혼자서 설치했다 하더라도 오셔야합니다. 
+> 개발 환경을 구축할 때 변동사항은 수도 없이 많고,
+> 토요일의 교육과정을 이수할 수 있는 이유는 모든 학생들이 각자의 개발 환경을 확인하고 성공 스티커를 받기 때문입니다.
+> 또한 바뀐 부분이 있기때문에 저번 워크샵을 다녀오셨더라도, 미리 오셔서 설치를 재검증 받으셔야합니다.
+> 수업 내용이 거의 꾸준히 바뀝니다.)
 >
-> We are looking for additional volunteers, both folks who know Clojure to
-> TA and people who are willing to help with logistics. Please sign up
-> here: {LINK TO VOLUNTEER REGISTRATION}
+> Clojure 수업 조교분들과 워크샵 계획을 기꺼이 후원해주실 분들의 추가 지원을 받습니다.
+> 가입해주세요: {등록할 링크}
 >
-> If you have questions or ideas for us, the best way to get in touch is
-> to email organizer.
+> 궁금하신 점이나 아이디어를 갖고 계신다면 주최자에게 이메일을 보내는게 가장 좋은 방법입니다.
 
 ### Additional Info
 
